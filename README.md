@@ -17,7 +17,7 @@
 - 🖥 Back-end 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 and Web scrapper
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Computer Sciences at IHU 
 - ⚙️ I love automating the boring stuff
-
+<br/>
 
 ### Languages :gear: 
 
@@ -28,7 +28,8 @@
 <!-- Java Image -->
 <img align="left" alt="Java"  width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /> (I only test in Java. I don't write shitty languages.)
 
-<br />
+<br/>
+<br/>
 
 ### Tools :wrench:
 
@@ -41,6 +42,7 @@
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/git/git.png" />
 <!-- Selenium Image -->
 <img align="left" alt="Selenium" width="50px" src="https://camo.githubusercontent.com/4b95df4d6ca7a01afc25d27159804dc5a7d0df41d8131aaf50c9f84847dfda21/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67" />
+<br/>
 <br/>
 <br/>
 <!-- Flask Image -->
