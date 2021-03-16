@@ -14,8 +14,8 @@
 #### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Giapa/Giapa/edit/main/README.md)
 
 ### :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Back-end 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 and Web scrapper
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Computer Sciences at IHU 
+- 🖥 Back-end developer and web scraper 
+- 🎓 Studying computer science at IHU SKG
 - ⚙️ I love automating the boring stuff
 <br/>
 
