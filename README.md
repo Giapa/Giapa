@@ -19,6 +19,10 @@
 - ⚙️ I love automating the boring stuff
 <br/>
 
+
+### Spotify Playing 🎧
+[![Spotify](https://spotify-github-readme.vercel.app/api/black)](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz)
+
 ### Languages :gear: 
 
 <!-- Python Image -->
@@ -73,5 +77,7 @@
 <br/>
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giapa&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
+<div>
+<img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giapa&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Giapa&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<div/>
