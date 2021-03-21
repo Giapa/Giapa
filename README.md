@@ -19,10 +19,6 @@
 - ⚙️ I love automating the boring stuff
 <br/>
 
-
-### Spotify Playing 🎧
-[![Spotify](https://spotify-github-readme.vercel.app/api/black)](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz)
-
 ### Languages :gear: 
 
 <!-- Python Image -->
