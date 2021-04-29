@@ -57,6 +57,7 @@
 <img align="left" alt="Cucumber" width="50px" src="https://static1.smartbear.co/cucumber/media/images/logos/icons/cucumber-open-icon.svg" />
 <!-- TestNG Image -->
 <img align="left" alt="TestNG" width="50px" src="https://static.javatpoint.com/tutorial/testng/images/testng-tutorial.png" />
+<img align="left" alt=".Net"  width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />
 <br/>
 <br/>
 <br/>
